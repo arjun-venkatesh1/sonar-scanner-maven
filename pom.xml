@@ -299,11 +299,9 @@
       <name>GitHub</name>
       <url>scm:git:git@github.com:SonarSource/sonar-scanner-maven.git</url>
     </site>
-  </distributionManagement>
-  <distributionManagement>
     <snapshotrepository>
     <id>nexus</id>
     <url>http://35.162.197.99:8081/nexus/content/repositories/nexus</url>
-  </snapshotrepository>
+    </snapshotrepository>
   </distributionManagement>
 </project>
