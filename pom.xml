@@ -301,9 +301,9 @@
     </site>
   </distributionManagement>
   <distributionManagement>
-    <repository>
+    <snapshotrepository>
     <id>nexus</id>
     <url>http://35.162.197.99:8081/nexus/content/repositories/nexus</url>
-  </repository>
+  </snapshotrepository>
   </distributionManagement>
 </project>
